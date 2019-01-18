@@ -1,0 +1,22 @@
+body{
+  background: #d2defd;
+  color: #3c006f;
+  size: 150%;
+  margin:20;
+}
+
+p{
+  font-family: Arial;
+}
+
+a{
+  color: black;
+}
+
+a:focus{
+  border: 1px solid;
+}
+
+*{
+  color:green;
+}
